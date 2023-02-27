@@ -1,0 +1,19 @@
+/* Title Banner */
+.title-block{
+    color: azure;
+}
+
+.title-block h2{
+    font-weight: 800;
+    font-size: 3.5rem;
+}
+
+.title-block p{
+    font-weight: 200;
+    font-size: 1.2rem;
+    color: rgb(189, 189, 189);
+}
+
+.shadow-look{
+    box-shadow: 5px 5px #f00, -5px -10px #00f;
+}
